@@ -1,0 +1,35 @@
+
+
+    <!DOCTYPE html>
+    <html lang="en-US">
+        <head></head>
+        <body style="background-color: lightyellow;">
+            <h1>
+
+            Beer Social Network
+
+            </h1>
+            <p></p>
+            <ul style="list-style: disc;"></ul>
+            <hr></hr>
+            <h2>
+
+            Welcome to the Beer Social Network
+
+            </h2>
+            <hr></hr>
+            <p>
+
+            Here you can find friends or stalk strangers.
+
+            </p>
+            <p>
+
+            The Beer Social Network does not take responsibil…
+
+            </p>
+        </body>
+    </html>
+
+
+
