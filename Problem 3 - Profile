@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+    <html lang="en-US">
+        <head>
+            <title>Profile</title>
+        </head>
+        <body style="background-color: lightyellow;">
+            <h1>Profile</h1>
+            <p>
+                <ul style="list-style: disc;"></p>
+                   <li><a href="home.html">Home</a></li>
+                   <li><a href="profile.html">Profile</a></li>
+                   <li><a href="friends.html">Friends</a></li>
+                </ul>
+            </p>
+            <hr></hr>
+            <h2> Profile of Beer </h2>
+            <hr></hr>
+            <img src="http://primoclipart.com/files/preview/big/315/Beer%20Mug%20Clip%20Art.jpg" alt="beer.jpg" width="130" height="230">
+            <p><strong>Name :</strong> Beer</p>
+            <p><strong>Birthday :</strong> Long time ago</p>
+            <p><strong>Occupation :</strong> Celebrating</p>
+            <p><strong>Area of occupation :</strong> In every house(almost)</p>
+
+        </body>
+    </html>
