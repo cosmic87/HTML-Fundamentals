@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>FirstTask</title>
+</head>
+<body>
+<font size="4">Hello, Stranger!</font>
+<h1><b>Welcome to Runners Home &trade;</b></h1>
+<h2>Runners Home&trade; is dedicated to providing you with:</h2>
+<ul>
+<li> the most up-to date information on running races.</li>
+<li> the best resources for runners</li>
+</ul>
+<hr>
+<p>&copy; Runners Home. All rights reserved</p>
+</body>
+</html>
